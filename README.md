@@ -560,8 +560,6 @@ New-SmbShare -Name "IT_Share" -Path "C:\Shares\IT_Share" -FullAccess "COMPANY\Do
 
 ## Screenshots
 
-> Add screenshots to a `/screenshots` folder in this repo and reference them below.
-
 | Screenshot | Description |
 |---|---|
 | `screenshots/01-natnetwork.png` | LabNAT NAT Network configured in VirtualBox |
