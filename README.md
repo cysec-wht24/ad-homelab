@@ -23,7 +23,6 @@ A fully functional Active Directory domain lab built on a personal laptop using 
 - [Phase 12 — Shared Folder & Permissions](#phase-12--shared-folder--permissions)
 - [Phase 13 — Testing & Verification](#phase-13--testing--verification)
 - [Errors & Fixes](#errors--fixes)
-- [Resume Summary](#resume-summary)
 
 ---
 
